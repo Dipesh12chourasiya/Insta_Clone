@@ -33,5 +33,7 @@
 
 ### Steps
 
-1. **Clone the repository**
+   git clone https://github.com/Dipesh12chourasiya/Insta_Clone.git
+   npm i
+   npm run dev
 
